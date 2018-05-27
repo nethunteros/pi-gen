@@ -13,7 +13,7 @@
         "Pi 3",
         "Pi Compute Module 3"
     ],
-    "url": "http://www.raspbian.org/",
+    "url": "http://www.kali.org/",
     "username": "pi",
-    "version": "stretch"
+    "version": "kali-rolling"
 }

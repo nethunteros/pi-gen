@@ -1,0 +1,29 @@
+abootimg cgpt ntpdate u-boot-tools vboot-utils vboot-kernel-utils
+e2fsprogs initramfs-tools kali-defaults kali-menu parted sudo usbutils firmware-linux firmware-linux-nonfree
+fonts-croscore fonts-crosextra-caladea fonts-crosextra-carlito gnome-theme-kali gtk3-engines-xfce kali-desktop-xfce kali-root-login lightdm network-manager network-manager-gnome xfce4 xserver-xorg-video-fbdev xserver-xorg-input-evdev xserver-xorg-input-synaptics
+aircrack-ng ethtool hydra john libnfc-bin mfoc nmap passing-the-hash sqlmap usbutils winexe wireshark
+apache2 openssh-server
+iceweasel xfce4-terminal python-smbus i2c-tools python-requests python-configobj python-pip
+libgmp3-dev gawk qpdf bison flex make git
+less fbset sudo psmisc strace ed ncdu crda
+console-setup keyboard-configuration debconf-utils parted unzip
+build-essential manpages-dev python bash-completion gdb pkg-config
+v4l-utils
+avahi-daemon
+lua5.1
+luajit
+hardlink ca-certificates curl
+fake-hwclock nfs-common usbutils
+libfreetype6-dev
+dosfstools
+dphys-swapfile
+apt-listchanges
+usb-modeswitch
+apt-transport-https
+libpam-chksshpwd
+libmtp-runtime
+rsync
+htop
+man-db
+policykit-1
+raspberrypi-sys-mods pi-bluetooth libraspberrypi-dev libraspberrypi-doc rpi-update python-rpi.gpio

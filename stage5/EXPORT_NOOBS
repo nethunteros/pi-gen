@@ -1,2 +1,2 @@
-NOOBS_NAME="Raspbian"
-NOOBS_DESCRIPTION="A port of Debian Stretch for the Raspberry Pi (full desktop version)"
+NOOBS_NAME="Kali"
+NOOBS_DESCRIPTION="Kali Linux is a Debian-based distribution with a collection of security and forensics tools"
