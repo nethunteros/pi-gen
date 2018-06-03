@@ -1,7 +1,0 @@
-Package: *
-Pin: release a=kali-rolling
-Pin-Priority: 700
-
-Package: *
-Pin: release a=stretch
-Pin-Priority: 650

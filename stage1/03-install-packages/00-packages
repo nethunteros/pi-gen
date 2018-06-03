@@ -1,1 +1,8 @@
-libraspberrypi-bin libraspberrypi0 raspi-config
+gettext-base
+parted
+lua5.1
+alsa-utils
+psmisc
+device-tree-compiler
+bluez
+bluez-firmware

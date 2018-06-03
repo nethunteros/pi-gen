@@ -20,10 +20,8 @@ dphys-swapfile
 apt-listchanges
 usb-modeswitch
 apt-transport-https
-libpam-chksshpwd
 libmtp-runtime
 rsync
 htop
 man-db
 policykit-1
-raspberrypi-sys-mods pi-bluetooth libraspberrypi-dev libraspberrypi-doc rpi-update python-rpi.gpio
